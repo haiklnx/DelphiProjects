@@ -1,0 +1,13 @@
+__history
+*.local
+*.dcu
+*.identcache
+*.stat
+*.drc
+*.map
+/bin
+/deploy
+/build
+*.exe
+*.zip
+*.dres

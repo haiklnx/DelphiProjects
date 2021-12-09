@@ -1,0 +1,3 @@
+--- new start of FireDAC Trace ---
+4335776109542 17:47:33.841 -=#!!! FireDAC Tracer started !!!#=-
+4335873709251 17:47:43.602 -=#!!! FireDAC Tracer stopped !!!#=-
